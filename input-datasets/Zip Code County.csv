@@ -1,0 +1,732 @@
+ZIP Code 2,City,County,Type
+07001,Avenel,Middlesex,Standard
+07002,Bayonne,Hudson,Standard
+07003,Bloomfield,Essex,Standard
+07004,Fairfield,Essex,Standard
+07005,Boonton,Morris,Standard
+07006,Caldwell,Essex,Standard
+07007,Caldwell,Essex,P.O. Box
+07008,Carteret,Middlesex,Standard
+07009,Cedar Grove,Essex,Standard
+07010,Cliffside Park,Bergen,Standard
+07011,Clifton,Passaic,Standard
+07012,Clifton,Passaic,Standard
+07013,Clifton,Passaic,Standard
+07014,Clifton,Passaic,Standard
+07015,Clifton,Passaic,P.O. Box
+07016,Cranford,Union,Standard
+07017,East Orange,Essex,Standard
+07018,East Orange,Essex,Standard
+07019,East Orange,Essex,P.O. Box
+07020,Edgewater,Bergen,Standard
+07021,Essex Fells,Essex,Standard
+07022,Fairview,Bergen,Standard
+07023,Fanwood,Union,Standard
+07024,Fort Lee,Bergen,Standard
+07026,Garfield,Bergen,Standard
+07027,Garwood,Union,Standard
+07028,Glen Ridge,Essex,Standard
+07029,Harrison,Hudson,Standard
+07030,Hoboken,Hudson,Standard
+07031,North Arlington,Bergen,Standard
+07032,Kearny,Hudson,Standard
+07033,Kenilworth,Union,Standard
+07034,Lake Hiawatha,Morris,Standard
+07035,Lincoln Park,Morris,Standard
+07036,Linden,Union,Standard
+07039,Livingston,Essex,Standard
+07040,Maplewood,Essex,Standard
+07041,Millburn,Essex,Standard
+07042,Montclair,Essex,Standard
+07043,Montclair,Essex,Standard
+07044,Verona,Essex,Standard
+07045,Montville,Morris,Standard
+07046,Mountain Lakes,Morris,Standard
+07047,North Bergen,Hudson,Standard
+07050,Orange,Essex,Standard
+07051,Orange,Essex,P.O. Box
+07052,West Orange,Essex,Standard
+07054,Parsippany,Morris,Standard
+07055,Passaic,Passaic,Standard
+07057,Wallington,Bergen,Standard
+07058,Pine Brook,Morris,Standard
+07059,Warren,Somerset,Standard
+07060,Plainfield,Union,Standard
+07061,Plainfield,Union,P.O. Box
+07062,Plainfield,Union,Standard
+07063,Plainfield,Union,Standard
+07064,Port Reading,Middlesex,Standard
+07065,Rahway,Union,Standard
+07066,Clark,Union,Standard
+07067,Colonia,Middlesex,Standard
+07068,Roseland,Essex,Standard
+07069,Watchung,Somerset,Standard
+07070,Rutherford,Bergen,Standard
+07071,Lyndhurst,Bergen,Standard
+07072,Carlstadt,Bergen,Standard
+07073,East Rutherford,Bergen,Standard
+07074,Moonachie,Bergen,Standard
+07075,Wood Ridge,Bergen,Standard
+07076,Scotch Plains,Union,Standard
+07077,Sewaren,Middlesex,Standard
+07078,Short Hills,Essex,Standard
+07079,South Orange,Essex,Standard
+07080,South Plainfield,Middlesex,Standard
+07081,Springfield,Union,Standard
+07082,Towaco,Morris,Standard
+07083,Union,Union,Standard
+07086,Weehawken,Hudson,Standard
+07087,Union City,Hudson,Standard
+07088,Vauxhall,Union,Standard
+07090,Westfield,Union,Standard
+07091,Westfield,Union,P.O. Box
+07092,Mountainside,Union,Standard
+07093,West New York,Hudson,Standard
+07094,Secaucus,Hudson,Standard
+07095,Woodbridge,Middlesex,Standard
+07096,Secaucus,Hudson,P.O. Box
+07097,Jersey City,Hudson,Unique
+07099,Kearny,Hudson,Unique
+07101,Newark,Essex,P.O. Box
+07102,Newark,Essex,Standard
+07103,Newark,Essex,Standard
+07104,Newark,Essex,Standard
+07105,Newark,Essex,Standard
+07106,Newark,Essex,Standard
+07107,Newark,Essex,Standard
+07108,Newark,Essex,Standard
+07109,Belleville,Essex,Standard
+07110,Nutley,Essex,Standard
+07111,Irvington,Essex,Standard
+07112,Newark,Essex,Standard
+07114,Newark,Essex,Standard
+07175,Newark,Essex,Unique
+07184,Newark,Essex,Unique
+07188,Newark,Essex,Unique
+07189,Newark,Essex,Unique
+07191,Newark,Essex,Unique
+07192,Newark,Essex,Unique
+07193,Newark,Essex,Unique
+07195,Newark,Essex,Unique
+07198,Newark,Essex,Unique
+07199,Newark,Essex,Unique
+07201,Elizabeth,Union,Standard
+07202,Elizabeth,Union,Standard
+07203,Roselle,Union,Standard
+07204,Roselle Park,Union,Standard
+07205,Hillside,Union,Standard
+07206,Elizabethport,Union,Standard
+07207,Elizabeth,Union,P.O. Box
+07208,Elizabeth,Union,Standard
+07302,Jersey City,Hudson,Standard
+07303,Jersey City,Hudson,P.O. Box
+07304,Jersey City,Hudson,Standard
+07305,Jersey City,Hudson,Standard
+07306,Jersey City,Hudson,Standard
+07307,Jersey City,Hudson,Standard
+07308,Jersey City,Hudson,P.O. Box
+07310,Jersey City,Hudson,Standard
+07311,Jersey City,Hudson,Standard
+07395,Jersey City,Hudson,Unique
+07399,Jersey City,Hudson,Unique
+07401,Allendale,Bergen,Standard
+07403,Bloomingdale,Passaic,Standard
+07405,Butler,Morris,Standard
+07407,Elmwood Park,Bergen,Standard
+07410,Fair Lawn,Bergen,Standard
+07416,Franklin,Sussex,Standard
+07417,Franklin Lakes,Bergen,Standard
+07418,Glenwood,Sussex,Standard
+07419,Hamburg,Sussex,Standard
+07420,Haskell,Passaic,Standard
+07421,Hewitt,Passaic,Standard
+07422,Highland Lakes,Sussex,Standard
+07423,Ho Ho Kus,Bergen,Standard
+07424,Little Falls,Passaic,Standard
+07428,Mc Afee,Sussex,P.O. Box
+07430,Mahwah,Bergen,Standard
+07432,Midland Park,Bergen,Standard
+07435,Newfoundland,Passaic,Standard
+07436,Oakland,Bergen,Standard
+07438,Oak Ridge,Passaic,Standard
+07439,Ogdensburg,Sussex,Standard
+07440,Pequannock,Morris,Standard
+07442,Pompton Lakes,Passaic,Standard
+07444,Pompton Plains,Morris,Standard
+07446,Ramsey,Bergen,Standard
+07450,Ridgewood,Bergen,Standard
+07451,Ridgewood,Bergen,P.O. Box
+07452,Glen Rock,Bergen,Standard
+07456,Ringwood,Passaic,Standard
+07457,Riverdale,Morris,Standard
+07458,Saddle River,Bergen,Standard
+07460,Stockholm,Sussex,Standard
+07461,Sussex,Sussex,Standard
+07462,Vernon,Sussex,Standard
+07463,Waldwick,Bergen,Standard
+07465,Wanaque,Passaic,Standard
+07470,Wayne,Passaic,Standard
+07474,Wayne,Passaic,P.O. Box
+07480,West Milford,Passaic,Standard
+07481,Wyckoff,Bergen,Standard
+07495,Mahwah,Bergen,Standard
+07501,Paterson,Passaic,Standard
+07502,Paterson,Passaic,Standard
+07503,Paterson,Passaic,Standard
+07504,Paterson,Passaic,Standard
+07505,Paterson,Passaic,Standard
+07506,Hawthorne,Passaic,Standard
+07507,Hawthorne,Passaic,P.O. Box
+07508,Haledon,Passaic,Standard
+07509,Paterson,Passaic,P.O. Box
+07510,Paterson,Passaic,Standard
+07511,Totowa,Passaic,P.O. Box
+07512,Totowa,Passaic,Standard
+07513,Paterson,Passaic,Standard
+07514,Paterson,Passaic,Standard
+07522,Paterson,Passaic,Standard
+07524,Paterson,Passaic,Standard
+07533,Paterson,Passaic,P.O. Box
+07538,Haledon,Passaic,P.O. Box
+07543,Paterson,Passaic,P.O. Box
+07544,Paterson,Passaic,P.O. Box
+07601,Hackensack,Bergen,Standard
+07602,Hackensack,Bergen,P.O. Box
+07603,Bogota,Bergen,Standard
+07604,Hasbrouck Heights,Bergen,Standard
+07605,Leonia,Bergen,Standard
+07606,South Hackensack,Bergen,Standard
+07607,Maywood,Bergen,Standard
+07608,Teterboro,Bergen,Standard
+07620,Alpine,Bergen,P.O. Box
+07621,Bergenfield,Bergen,Standard
+07624,Closter,Bergen,Standard
+07626,Cresskill,Bergen,Standard
+07627,Demarest,Bergen,Standard
+07628,Dumont,Bergen,Standard
+07630,Emerson,Bergen,Standard
+07631,Englewood,Bergen,Standard
+07632,Englewood Cliffs,Bergen,Standard
+07640,Harrington Park,Bergen,Standard
+07641,Haworth,Bergen,Standard
+07642,Hillsdale,Bergen,Standard
+07643,Little Ferry,Bergen,Standard
+07644,Lodi,Bergen,Standard
+07645,Montvale,Bergen,Standard
+07646,New Milford,Bergen,Standard
+07647,Northvale,Bergen,Standard
+07648,Norwood,Bergen,Standard
+07649,Oradell,Bergen,Standard
+07650,Palisades Park,Bergen,Standard
+07652,Paramus,Bergen,Standard
+07653,Paramus,Bergen,P.O. Box
+07656,Park Ridge,Bergen,Standard
+07657,Ridgefield,Bergen,Standard
+07660,Ridgefield Park,Bergen,Standard
+07661,River Edge,Bergen,Standard
+07662,Rochelle Park,Bergen,Standard
+07663,Saddle Brook,Bergen,Standard
+07666,Teaneck,Bergen,Standard
+07670,Tenafly,Bergen,Standard
+07675,Westwood,Bergen,Standard
+07676,Township Of Washington,Bergen,Standard
+07677,Woodcliff Lake,Bergen,Standard
+07699,Teterboro,Bergen,Unique
+07701,Red Bank,Monmouth,Standard
+07702,Shrewsbury,Monmouth,Standard
+07703,Fort Monmouth,Monmouth,Standard
+07704,Fair Haven,Monmouth,Standard
+07710,Adelphia,Monmouth,P.O. Box
+07711,Allenhurst,Monmouth,Standard
+07712,Asbury Park,Monmouth,Standard
+07715,Belmar,Monmouth,Unique
+07716,Atlantic Highlands,Monmouth,Standard
+07717,Avon By The Sea,Monmouth,Standard
+07718,Belford,Monmouth,Standard
+07719,Belmar,Monmouth,Standard
+07720,Bradley Beach,Monmouth,Standard
+07721,Cliffwood,Monmouth,Standard
+07722,Colts Neck,Monmouth,Standard
+07723,Deal,Monmouth,Standard
+07724,Eatontown,Monmouth,Standard
+07726,Englishtown,Monmouth,Standard
+07727,Farmingdale,Monmouth,Standard
+07728,Freehold,Monmouth,Standard
+07730,Hazlet,Monmouth,Standard
+07731,Howell,Monmouth,Standard
+07732,Highlands,Monmouth,Standard
+07733,Holmdel,Monmouth,Standard
+07734,Keansburg,Monmouth,Standard
+07735,Keyport,Monmouth,Standard
+07737,Leonardo,Monmouth,Standard
+07738,Lincroft,Monmouth,Standard
+07739,Little Silver,Monmouth,Standard
+07740,Long Branch,Monmouth,Standard
+07746,Marlboro,Monmouth,Standard
+07747,Matawan,Monmouth,Standard
+07748,Middletown,Monmouth,Standard
+07750,Monmouth Beach,Monmouth,Standard
+07751,Morganville,Monmouth,Standard
+07752,Navesink,Monmouth,P.O. Box
+07753,Neptune,Monmouth,Standard
+07754,Neptune,Monmouth,P.O. Box
+07755,Oakhurst,Monmouth,Standard
+07756,Ocean Grove,Monmouth,Standard
+07757,Oceanport,Monmouth,Standard
+07758,Port Monmouth,Monmouth,Standard
+07760,Rumson,Monmouth,Standard
+07762,Spring Lake,Monmouth,Standard
+07763,Tennent,Monmouth,P.O. Box
+07764,West Long Branch,Monmouth,Standard
+07765,Wickatunk,Monmouth,P.O. Box
+07799,Eatontown,Monmouth,Standard
+07801,Dover,Morris,Standard
+07802,Dover,Morris,P.O. Box
+07803,Mine Hill,Morris,Standard
+07806,Picatinny Arsenal,Morris,Standard
+07820,Allamuchy,Warren,P.O. Box
+07821,Andover,Sussex,Standard
+07822,Augusta,Sussex,Standard
+07823,Belvidere,Warren,Standard
+07825,Blairstown,Warren,Standard
+07826,Branchville,Sussex,Standard
+07827,Montague,Sussex,Standard
+07828,Budd Lake,Morris,Standard
+07829,Buttzville,Warren,P.O. Box
+07830,Califon,Hunterdon,Standard
+07831,Changewater,Warren,Standard
+07832,Columbia,Warren,Standard
+07833,Delaware,Warren,P.O. Box
+07834,Denville,Morris,Standard
+07836,Flanders,Morris,Standard
+07837,Glasser,Sussex,P.O. Box
+07838,Great Meadows,Warren,Standard
+07839,Greendell,Sussex,P.O. Box
+07840,Hackettstown,Warren,Standard
+07842,Hibernia,Morris,P.O. Box
+07843,Hopatcong,Sussex,Standard
+07844,Hope,Warren,P.O. Box
+07845,Ironia,Morris,P.O. Box
+07846,Johnsonburg,Warren,P.O. Box
+07847,Kenvil,Morris,Standard
+07848,Lafayette,Sussex,Standard
+07849,Lake Hopatcong,Morris,Standard
+07850,Landing,Morris,Standard
+07851,Layton,Sussex,Standard
+07852,Ledgewood,Morris,Standard
+07853,Long Valley,Morris,Standard
+07855,Middleville,Sussex,P.O. Box
+07856,Mount Arlington,Morris,Standard
+07857,Netcong,Morris,Standard
+07860,Newton,Sussex,Standard
+07863,Oxford,Warren,Standard
+07865,Port Murray,Warren,Standard
+07866,Rockaway,Morris,Standard
+07869,Randolph,Morris,Standard
+07870,Schooleys Mountain,Morris,P.O. Box
+07871,Sparta,Sussex,Standard
+07874,Stanhope,Sussex,Standard
+07875,Stillwater,Sussex,P.O. Box
+07876,Succasunna,Morris,Standard
+07877,Swartswood,Sussex,P.O. Box
+07878,Mount Tabor,Morris,P.O. Box
+07879,Tranquility,Sussex,P.O. Box
+07880,Vienna,Warren,P.O. Box
+07881,Wallpack Center,Sussex,Standard
+07882,Washington,Warren,Standard
+07885,Wharton,Morris,Standard
+07890,Branchville,Sussex,Unique
+07901,Summit,Union,Standard
+07902,Summit,Union,P.O. Box
+07920,Basking Ridge,Somerset,Standard
+07921,Bedminster,Somerset,Standard
+07922,Berkeley Heights,Union,Standard
+07924,Bernardsville,Somerset,Standard
+07926,Brookside,Morris,P.O. Box
+07927,Cedar Knolls,Morris,Standard
+07928,Chatham,Morris,Standard
+07930,Chester,Morris,Standard
+07931,Far Hills,Somerset,Standard
+07932,Florham Park,Morris,Standard
+07933,Gillette,Morris,Standard
+07934,Gladstone,Somerset,Standard
+07935,Green Village,Morris,Standard
+07936,East Hanover,Morris,Standard
+07938,Liberty Corner,Somerset,P.O. Box
+07939,Lyons,Somerset,Standard
+07940,Madison,Morris,Standard
+07945,Mendham,Morris,Standard
+07946,Millington,Morris,Standard
+07950,Morris Plains,Morris,Standard
+07960,Morristown,Morris,Standard
+07961,Convent Station,Morris,P.O. Box
+07962,Morristown,Morris,P.O. Box
+07963,Morristown,Morris,P.O. Box
+07970,Mount Freedom,Morris,P.O. Box
+07974,New Providence,Union,Standard
+07976,New Vernon,Morris,Standard
+07977,Peapack,Somerset,P.O. Box
+07978,Pluckemin,Somerset,P.O. Box
+07979,Pottersville,Hunterdon,P.O. Box
+07980,Stirling,Morris,Standard
+07981,Whippany,Morris,Standard
+07999,Whippany,Morris,Standard
+08001,Alloway,Salem,P.O. Box
+08002,Cherry Hill,Camden,Standard
+08003,Cherry Hill,Camden,Standard
+08004,Atco,Camden,Standard
+08005,Barnegat,Ocean,Standard
+08006,Barnegat Light,Ocean,P.O. Box
+08007,Barrington,Camden,Standard
+08008,Beach Haven,Ocean,Standard
+08009,Berlin,Camden,Standard
+08010,Beverly,Burlington,Standard
+08011,Birmingham,Burlington,P.O. Box
+08012,Blackwood,Camden,Standard
+08014,Bridgeport,Gloucester,Standard
+08015,Browns Mills,Burlington,Standard
+08016,Burlington,Burlington,Standard
+08018,Cedar Brook,Camden,P.O. Box
+08019,Chatsworth,Burlington,Standard
+08020,Clarksboro,Gloucester,Standard
+08021,Clementon,Camden,Standard
+08022,Columbus,Burlington,Standard
+08023,Deepwater,Salem,P.O. Box
+08025,Ewan,Gloucester,P.O. Box
+08026,Gibbsboro,Camden,Standard
+08027,Gibbstown,Gloucester,Standard
+08028,Glassboro,Gloucester,Standard
+08029,Glendora,Camden,Standard
+08030,Gloucester City,Camden,Standard
+08031,Bellmawr,Camden,Standard
+08032,Grenloch,Gloucester,Standard
+08033,Haddonfield,Camden,Standard
+08034,Cherry Hill,Camden,Standard
+08035,Haddon Heights,Camden,Standard
+08036,Hainesport,Burlington,Standard
+08037,Hammonton,Atlantic,Standard
+08038,Hancocks Bridge,Salem,P.O. Box
+08039,Harrisonville,Gloucester,P.O. Box
+08041,Jobstown,Burlington,Standard
+08042,Juliustown,Burlington,P.O. Box
+08043,Voorhees,Camden,Standard
+08045,Lawnside,Camden,Standard
+08046,Willingboro,Burlington,Standard
+08048,Lumberton,Burlington,Standard
+08049,Magnolia,Camden,Standard
+08050,Manahawkin,Ocean,Standard
+08051,Mantua,Gloucester,Standard
+08052,Maple Shade,Burlington,Standard
+08053,Marlton,Burlington,Standard
+08054,Mount Laurel,Burlington,Standard
+08055,Medford,Burlington,Standard
+08055,Medford Lakes,Burlington,Standard
+08056,Mickleton,Gloucester,Standard
+08057,Moorestown,Burlington,Standard
+08059,Mount Ephraim,Camden,Standard
+08060,Mount Holly,Burlington,Standard
+08061,Mount Royal,Gloucester,Standard
+08062,Mullica Hill,Gloucester,Standard
+08062,South Harrison Township,Gloucester,Standard
+08063,National Park,Gloucester,Standard
+08064,New Lisbon,Burlington,P.O. Box
+08065,Palmyra,Burlington,Standard
+08066,Paulsboro,Gloucester,Standard
+08067,Pedricktown,Salem,Standard
+08068,Pemberton,Burlington,Standard
+08069,Penns Grove,Salem,Standard
+08070,Pennsville,Salem,Standard
+08071,Pitman,Gloucester,Standard
+08072,Quinton,Salem,P.O. Box
+08073,Rancocas,Burlington,P.O. Box
+08074,Richwood,Gloucester,P.O. Box
+08075,Delanco,Burlington,Standard
+08075,Delran,Burlington,Standard
+08075,Riverside,Burlington,Standard
+08076,Riverton,Burlington,P.O. Box
+08077,Riverton,Burlington,Standard
+08078,Runnemede,Camden,Standard
+08079,Salem,Salem,Standard
+08080,Sewell,Gloucester,Standard
+08081,Sicklerville,Camden,Standard
+08083,Somerdale,Camden,Standard
+08084,Stratford,Camden,Standard
+08085,Swedesboro,Gloucester,Standard
+08086,Thorofare,Gloucester,Standard
+08087,Little Egg Harbor Twp,Ocean,Standard
+08087,Tuckerton,Ocean,Standard
+08088,Shamong,Burlington,Standard
+08088,Southampton,Burlington,Standard
+08088,Tabernacle,Burlington,Standard
+08088,Vincentown,Burlington,Standard
+08089,Waterford Works,Camden,Standard
+08090,Wenonah,Gloucester,Standard
+08091,West Berlin,Camden,Standard
+08092,West Creek,Ocean,Standard
+08093,Westville,Gloucester,Standard
+08094,Williamstown,Gloucester,Standard
+08095,Winslow,Camden,P.O. Box
+08096,Deptford,Gloucester,Standard
+08096,Woodbury,Gloucester,Standard
+08097,Woodbury Heights,Gloucester,Standard
+08098,Woodstown,Salem,Standard
+08099,Bellmawr,Camden,P.O. Box
+08101,Camden,Camden,P.O. Box
+08102,Camden,Camden,Standard
+08103,Camden,Camden,Standard
+08104,Camden,Camden,Standard
+08105,Camden,Camden,Standard
+08106,Audubon,Camden,Standard
+08107,Oaklyn,Camden,Standard
+08108,Collingswood,Camden,Standard
+08109,Merchantville,Camden,Standard
+08110,Pennsauken,Camden,Standard
+08201,Absecon,Atlantic,Standard
+08202,Avalon,Cape May,Standard
+08203,Brigantine,Atlantic,Standard
+08204,Cape May,Cape May,Standard
+08205,Absecon,Atlantic,Standard
+08210,Cape May Court House,Cape May,Standard
+08212,Cape May Point,Cape May,P.O. Box
+08213,Cologne,Atlantic,P.O. Box
+08214,Dennisville,Cape May,P.O. Box
+08215,Egg Harbor City,Atlantic,Standard
+08217,Elwood,Atlantic,P.O. Box
+08218,Goshen,Cape May,P.O. Box
+08219,Green Creek,Cape May,P.O. Box
+08220,Leeds Point,Atlantic,P.O. Box
+08221,Linwood,Atlantic,Standard
+08223,Marmora,Cape May,Standard
+08224,New Gretna,Burlington,P.O. Box
+08225,Northfield,Atlantic,Standard
+08226,Ocean City,Cape May,Standard
+08230,Ocean View,Cape May,Standard
+08231,Oceanville,Atlantic,P.O. Box
+08232,Pleasantville,Atlantic,Standard
+08234,Egg Harbor Township,Atlantic,Standard
+08240,Pomona,Atlantic,P.O. Box
+08241,Port Republic,Atlantic,Standard
+08242,Rio Grande,Cape May,Standard
+08243,Sea Isle City,Cape May,Standard
+08244,Somers Point,Atlantic,Standard
+08245,South Dennis,Cape May,P.O. Box
+08246,South Seaville,Cape May,P.O. Box
+08247,Stone Harbor,Cape May,Standard
+08248,Strathmere,Cape May,P.O. Box
+08250,Tuckahoe,Cape May,P.O. Box
+08251,Villas,Cape May,Standard
+08252,Whitesboro,Cape May,P.O. Box
+08260,Wildwood,Cape May,Standard
+08270,Woodbine,Cape May,Standard
+08302,Bridgeton,Cumberland,Standard
+08310,Buena,Atlantic,Standard
+08311,Cedarville,Cumberland,Standard
+08312,Clayton,Gloucester,Standard
+08313,Deerfield Street,Cumberland,P.O. Box
+08314,Delmont,Cumberland,Standard
+08315,Dividing Creek,Cumberland,P.O. Box
+08316,Dorchester,Cumberland,P.O. Box
+08317,Dorothy,Atlantic,Standard
+08318,Elmer,Salem,Standard
+08319,Estell Manor,Atlantic,Standard
+08320,Fairton,Cumberland,P.O. Box
+08321,Fortescue,Cumberland,P.O. Box
+08322,Franklinville,Gloucester,Standard
+08323,Greenwich,Cumberland,Standard
+08324,Heislerville,Cumberland,Standard
+08326,Landisville,Atlantic,Standard
+08327,Leesburg,Cumberland,Standard
+08328,Malaga,Gloucester,Standard
+08329,Mauricetown,Cumberland,P.O. Box
+08330,Mays Landing,Atlantic,Standard
+08332,Millville,Cumberland,Standard
+08340,Milmay,Atlantic,Standard
+08341,Minotola,Atlantic,Standard
+08342,Mizpah,Atlantic,P.O. Box
+08343,Monroeville,Salem,Standard
+08344,Newfield,Gloucester,Standard
+08345,Newport,Cumberland,Standard
+08346,Newtonville,Atlantic,Standard
+08347,Norma,Salem,P.O. Box
+08348,Port Elizabeth,Cumberland,Standard
+08349,Port Norris,Cumberland,Standard
+08350,Richland,Atlantic,Standard
+08352,Rosenhayn,Cumberland,P.O. Box
+08353,Shiloh,Cumberland,P.O. Box
+08360,Vineland,Cumberland,Standard
+08361,Vineland,Cumberland,Standard
+08362,Vineland,Cumberland,P.O. Box
+08401,Atlantic City,Atlantic,Standard
+08402,Margate City,Atlantic,Standard
+08403,Longport,Atlantic,Standard
+08404,Atlantic City,Atlantic,P.O. Box
+08405,Atlantic City,Atlantic,Unique
+08406,Ventnor City,Atlantic,Standard
+08501,Allentown,Monmouth,Standard
+08502,Belle Mead,Somerset,Standard
+08504,Blawenburg,Somerset,P.O. Box
+08505,Bordentown,Burlington,Standard
+08510,Millstone Township,Monmouth,Standard
+08511,Cookstown,Burlington,Standard
+08512,Cranbury,Middlesex,Standard
+08514,Cream Ridge,Monmouth,Standard
+08515,Chesterfield,Burlington,Standard
+08518,Florence,Burlington,Standard
+08520,Hightstown,Mercer,Standard
+08525,Hopewell,Mercer,Standard
+08526,Imlaystown,Monmouth,P.O. Box
+08527,Jackson,Ocean,Standard
+08528,Kingston,Somerset,Standard
+08530,Lambertville,Hunterdon,Standard
+08533,New Egypt,Ocean,Standard
+08534,Pennington,Mercer,Standard
+08535,Millstone Township,Monmouth,Standard
+08536,Plainsboro,Middlesex,Standard
+08540,Princeton,Mercer,Standard
+08541,Princeton,Mercer,Unique
+08542,Princeton,Mercer,Standard
+08543,Princeton,Mercer,P.O. Box
+08544,Princeton,Mercer,Unique
+08550,Princeton Junction,Mercer,Standard
+08551,Ringoes,Hunterdon,Standard
+08553,Rocky Hill,Somerset,Standard
+08554,Roebling,Burlington,Standard
+08555,Roosevelt,Monmouth,P.O. Box
+08556,Rosemont,Hunterdon,Standard
+08557,Sergeantsville,Hunterdon,P.O. Box
+08558,Skillman,Somerset,Standard
+08559,Stockton,Hunterdon,Standard
+08560,Titusville,Mercer,Standard
+08561,Windsor,Mercer,P.O. Box
+08562,Wrightstown,Burlington,Standard
+08601,Trenton,Mercer,P.O. Box
+08602,Trenton,Mercer,P.O. Box
+08603,Trenton,Mercer,P.O. Box
+08604,Trenton,Mercer,P.O. Box
+08605,Trenton,Mercer,P.O. Box
+08606,Trenton,Mercer,P.O. Box
+08607,Trenton,Mercer,P.O. Box
+08608,Trenton,Mercer,Standard
+08609,Trenton,Mercer,Standard
+08610,Trenton,Mercer,Standard
+08611,Trenton,Mercer,Standard
+08618,Trenton,Mercer,Standard
+08619,Trenton,Mercer,Standard
+08620,Trenton,Mercer,Standard
+08625,Trenton,Mercer,P.O. Box
+08628,Trenton,Mercer,Standard
+08629,Trenton,Mercer,Standard
+08638,Trenton,Mercer,Standard
+08640,Joint Base Mdl,Burlington,Standard
+08641,Joint Base Mdl,Burlington,Standard
+08645,Trenton,Mercer,Unique
+08646,Trenton,Mercer,Unique
+08647,Trenton,Mercer,Unique
+08648,Lawrence Township,Mercer,Standard
+08650,Trenton,Mercer,P.O. Box
+08666,Trenton,Mercer,Unique
+08690,Trenton,Mercer,Standard
+08691,Trenton,Mercer,Standard
+08695,Trenton,Mercer,Unique
+08701,Lakewood,Ocean,Standard
+08720,Allenwood,Monmouth,P.O. Box
+08721,Bayville,Ocean,Standard
+08722,Beachwood,Ocean,Standard
+08723,Brick,Ocean,Standard
+08724,Brick,Ocean,Standard
+08730,Brielle,Monmouth,Standard
+08731,Forked River,Ocean,Standard
+08732,Island Heights,Ocean,P.O. Box
+08733,Lakehurst,Ocean,Standard
+08734,Lanoka Harbor,Ocean,Standard
+08735,Lavallette,Ocean,Standard
+08736,Manasquan,Monmouth,Standard
+08738,Mantoloking,Ocean,Standard
+08739,Normandy Beach,Ocean,P.O. Box
+08740,Ocean Gate,Ocean,P.O. Box
+08741,Pine Beach,Ocean,Standard
+08742,Point Pleasant Beach,Ocean,Standard
+08750,Sea Girt,Monmouth,Standard
+08751,Seaside Heights,Ocean,Standard
+08752,Seaside Park,Ocean,Standard
+08753,Toms River,Ocean,Standard
+08754,Toms River,Ocean,P.O. Box
+08755,Toms River,Ocean,Standard
+08756,Toms River,Ocean,P.O. Box
+08757,Toms River,Ocean,Standard
+08758,Waretown,Ocean,Standard
+08759,Manchester Township,Ocean,Standard
+08801,Annandale,Hunterdon,Standard
+08802,Asbury,Hunterdon,Standard
+08803,Baptistown,Hunterdon,P.O. Box
+08804,Bloomsbury,Hunterdon,Standard
+08805,Bound Brook,Somerset,Standard
+08807,Bridgewater,Somerset,Standard
+08808,Broadway,Warren,P.O. Box
+08809,Clinton,Hunterdon,Standard
+08810,Dayton,Middlesex,Standard
+08812,Dunellen,Middlesex,Standard
+08816,East Brunswick,Middlesex,Standard
+08817,Edison,Middlesex,Standard
+08818,Edison,Middlesex,P.O. Box
+08820,Edison,Middlesex,Standard
+08821,Flagtown,Somerset,P.O. Box
+08822,Flemington,Hunterdon,Standard
+08823,Franklin Park,Somerset,Standard
+08824,Kendall Park,Middlesex,Standard
+08825,Frenchtown,Hunterdon,Standard
+08826,Glen Gardner,Hunterdon,Standard
+08827,Hampton,Hunterdon,Standard
+08828,Helmetta,Middlesex,Standard
+08829,High Bridge,Hunterdon,Standard
+08830,Iselin,Middlesex,Standard
+08831,Monroe Township,Middlesex,Standard
+08832,Keasbey,Middlesex,Standard
+08833,Lebanon,Hunterdon,Standard
+08834,Little York,Hunterdon,P.O. Box
+08835,Manville,Somerset,Standard
+08836,Martinsville,Somerset,Standard
+08837,Edison,Middlesex,Standard
+08840,Metuchen,Middlesex,Standard
+08844,Hillsborough,Somerset,Standard
+08846,Middlesex,Middlesex,Standard
+08848,Milford,Hunterdon,Standard
+08850,Milltown,Middlesex,Standard
+08852,Monmouth Junction,Middlesex,Standard
+08853,Neshanic Station,Somerset,Standard
+08854,Piscataway,Middlesex,Standard
+08855,Piscataway,Middlesex,P.O. Box
+08857,Old Bridge,Middlesex,Standard
+08858,Oldwick,Hunterdon,P.O. Box
+08859,Parlin,Middlesex,Standard
+08861,Perth Amboy,Middlesex,Standard
+08862,Perth Amboy,Middlesex,P.O. Box
+08863,Fords,Middlesex,Standard
+08865,Phillipsburg,Warren,Standard
+08867,Pittstown,Hunterdon,Standard
+08868,Quakertown,Hunterdon,P.O. Box
+08869,Raritan,Somerset,Standard
+08870,Readington,Hunterdon,P.O. Box
+08871,Sayreville,Middlesex,P.O. Box
+08872,Sayreville,Middlesex,Standard
+08873,Somerset,Somerset,Standard
+08875,Somerset,Somerset,P.O. Box
+08876,Somerville,Somerset,Standard
+08879,South Amboy,Middlesex,Standard
+08880,South Bound Brook,Somerset,Standard
+08882,South River,Middlesex,Standard
+08884,Spotswood,Middlesex,Standard
+08885,Stanton,Hunterdon,P.O. Box
+08886,Stewartsville,Warren,Standard
+08887,Three Bridges,Hunterdon,Standard
+08888,Whitehouse,Hunterdon,P.O. Box
+08889,Whitehouse Station,Hunterdon,Standard
+08890,Zarephath,Somerset,P.O. Box
+08899,Edison,Middlesex,Standard
+08901,New Brunswick,Middlesex,Standard
+08902,North Brunswick,Middlesex,Standard
+08903,New Brunswick,Middlesex,P.O. Box
+08904,Highland Park,Middlesex,Standard
+08906,New Brunswick,Middlesex,P.O. Box
+08933,New Brunswick,Middlesex,Unique
+08989,New Brunswick,Middlesex,Unique

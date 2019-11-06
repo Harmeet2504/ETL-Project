@@ -23,6 +23,7 @@ Data was filtered by .iloc[] function. Then dataset was converted into DataFrame
 Zip code county data: This dataset had information on city, zip codes and county. The zip codes had a ‘0’ that was read as string while reading the csv in jupyter notebook. The transformed file had cleaned zip codes.
 
 Jupyter notebook with codes for transformation can be referred in the “codes” folder. Output tables and csv files can be referred in the “output_files” folder.
+
 3.Loading: 
 Database was created both on PostgreSQL and MongoDB cluster.
 Add Postgres part…

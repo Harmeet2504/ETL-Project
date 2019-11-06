@@ -3,6 +3,7 @@
 Project Report:
 Statement of project: Create a database for NJ demographic and crime data by county in preparation for crime analysis.
 Methodology: The following methodology was adopted:
+
 1.Extraction:
 NJ county demographic data were extracted from the US Census 2017 Profile data: https://api.census.gov/data/2017/acs/acs5/profile?get=
 An API key can be obtained from https://api.census.gov/data/key_signup.html
@@ -13,6 +14,7 @@ Data collected from contributing Agencies (town, state and county police departm
 Data is returned as nested dictionaries which needs some cleaning up before converting into a dataframe. The function “de_nest” was built to convert the Agency API response to a dataframe.
 The crime API data is paginated which required nested for loops to extract data from each specific “offense” page. The function “unpack” was built to convert the Crime API response to a dataframe.  Please see jupyter notebook in the “codes” folder for the python code.
 NJ.gov: County and zip codes of NJ were scrapped using beautiful soup.
+
 2.Transformation: 
 Crime data: The agencies data and FBI crime data as mentioned above were merged using ORI key. Unwanted columns were dropped. Columns were renamed and reorganized. Column with county names were converted to title. The transformed data were saved as tables for subsequent loading.
 

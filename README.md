@@ -29,9 +29,9 @@ Jupyter notebook with codes for transformation can be referred in the “codes�
 
 # 3.Loading: 
 Database was created both on PostgreSQL and MongoDB cluster.
-Add Postgres part…
+Postgres: Connection was established with PostgreSQL and the data were uploaded.
 
-To load data, we also tried uploading data on non-relational “NoSQL” database, MongoDB. The Forrester Wave™: Big Data NoSQL, Q3 2016 identifies a number of reasons why developers and architects are choosing NoSQL over traditional RDBMS, including elastic scalability, extreme read and write performance, flexible data models, lower costs, and more. 
+MongoDB:To load data, we also tried uploading data on non-relational “NoSQL” database, MongoDB. The Forrester Wave™: Big Data NoSQL, Q3 2016 identifies a number of reasons why developers and architects are choosing NoSQL over traditional RDBMS, including elastic scalability, extreme read and write performance, flexible data models, lower costs, and more. 
 
 To load data, MongoDB cluster was set up on AWS. A user was created and IP address was set up. MongoDB Compass was installed to download, visualize and manipulate data from database. MongoClient was used to communicate with MongoDB using pymongo. Collections were loaded as dictionaries as NoSQL database like MongoDB provides support for JSON-styled, document-oriented storage systems. The database is available in MongoDB as demography_crime_db. The collections are “demography”, “crime”, “county”.
 Please see jupyter notebook in the “codes” folder for the python code.

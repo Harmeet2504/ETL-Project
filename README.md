@@ -41,3 +41,4 @@ Please see jupyter notebook in the “codes” folder for the python code.
 2. Reading Zipcodes datatypes in pandas 
 3. Retrieving data from multiple collections was tricky. Queries could be performed within a collection.
 
+![Process](ETL-Project/process/slide1.png)

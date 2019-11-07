@@ -8,6 +8,7 @@ We downloaded crime and demographic data for NJ at the county level for regressi
 We chose demographics often associated with higher crime rates: unemployment, % below poverty level, unemployment, income level, births to single mothers, sex ratio, age. These will be compared with the 10 offenses reported in the FBI database. With this data in hand, data scientists will be able to reject or accept the null hypothesis
 
 # Methodology: The following methodology was adopted:
+![Process](https://github.com/Harmeet2504/ETL-Project/blob/master/process/Slide1.png)
 # 1.Extraction:
 # NJ county demographic data (2017):
 Extracted from the US Census 2017 Profile data: https://api.census.gov/data/2017/acs/acs5/profile?get=
@@ -47,4 +48,4 @@ Please see jupyter notebook in the “Load-mongodb” folder for the python code
  
 4. Loading and reading data to and from MongoDB cluster could be performed successfully and queried.  However, querying data from multiple collections could not be performed.  Given the timeframe, we could not resolve this.
 
-![Process](https://github.com/Harmeet2504/ETL-Project/blob/master/process/Slide1.png)
+

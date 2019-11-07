@@ -1,6 +1,5 @@
 # ETL-Project
 
-Project Report:
 # Statement of project: Create a database for NJ demographic and crime data by county in preparation for crime analysis.
 
 # Questions to Answer

@@ -37,7 +37,7 @@ Jupyter notebook with codes for transformation can be referred in the “codes�
 Database was created both on PostgreSQL and MongoDB cluster.
 Postgres: Connection was established with PostgreSQL and the data were uploaded.Please see jupyter notebook in the “codes” folder for the python code.
 
-MongoDB:We also tried uploading data on non-relational “NoSQL” database, MongoDB. To load data, MongoDB cluster was set up on AWS. A user was created and IP address was set up. MongoDB Compass was installed to download, visualize and manipulate data from database. MongoClient was used to communicate with MongoDB using pymongo. Collections were loaded as dictionaries as NoSQL database like MongoDB provides support for JSON-styled, document-oriented storage systems. The database is available in MongoDB as demography_crime_db. The collections are “demography”, “crime”, “county”.
+MongoDB:We also tried uploading data on non-relational “NoSQL” database, MongoDB. To load data, MongoDB cluster was set up on AWS. A user was created and IP address was set up. MongoDB Compass was installed to download, visualize and manipulate data from database. MongoClient was used to communicate with MongoDB using pymongo. Collections were loaded as dictionaries as NoSQL database like MongoDB provides support for JSON-styled, document-oriented storage systems. The database is available in MongoDB. The collections are “demography” and “crime”.
 Please see jupyter notebook in the “Load-mongodb” folder for the python code.Showing below screnshot of one of the collections in MongoDB cluster.
 ![crime_Collection_in_MongoDB_cluster](https://github.com/Harmeet2504/ETL-Project/blob/master/Load-mongodb/crime-collection.png)
 

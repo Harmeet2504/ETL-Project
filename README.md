@@ -5,10 +5,12 @@ Statement of project: Create a database for NJ demographic and crime data by cou
 Methodology: The following methodology was adopted:
 
 # 1.Extraction:
-# NJ county demographic data were extracted from the US Census 2017 Profile data: https://api.census.gov/data/2017/acs/acs5/profile?get=
+# NJ county demographic data:
+Extracted from the US Census 2017 Profile data: https://api.census.gov/data/2017/acs/acs5/profile?get=
 An API key can be obtained from https://api.census.gov/data/key_signup.html
 API data returned as list of lists and converted to pandas dataframe. Please see jupyter notebook in the “codes” folder for the python code. 
-# NJ county 2017 crime data were extracted from the FBI’s Crime Data Explorer API: https://crime-data-explorer.fr.cloud.gov/api
+# NJ county 2017 crime data:
+Extracted from the FBI’s Crime Data Explorer API: https://crime-data-explorer.fr.cloud.gov/api
 An API key can be obtained from https://api.data.gov/signup/
 Data collected from contributing Agencies (town, state and county police departments) which each have their own “ori” code. Data collected for two different tables. One for Agencies: their name, ori code, and county locations. The second for crimes recorded by each agency. The ori code keys link the two tables. 
 Data is returned as nested dictionaries which needs some cleaning up before converting into a dataframe. The function “de_nest” was built to convert the Agency API response to a dataframe.

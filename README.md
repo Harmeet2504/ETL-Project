@@ -7,6 +7,9 @@ What demographic variables (if any) have the largest impact on crime?
 We downloaded crime and demographic data for NJ at the county level for regression analysis.
 We chose demographics often associated with higher crime rates: unemployment, % below poverty level, unemployment, income level, births to single mothers, sex ratio, age. These will be compared with the 10 offenses reported in the FBI database. With this data in hand, data scientists will be able to reject or accept the null hypothesis
 
+# Requirements
+ PostgreSQL, Jupyter Notebook, Sqllite, MongoDB Compass, pgAdmin4, Pandas, pyMongo, psycopg2
+
 # Methodology: The following methodology was adopted:
 ![Process](https://github.com/Harmeet2504/ETL-Project/blob/master/methodology.png)
 # 1.Extraction:

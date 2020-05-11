@@ -11,7 +11,7 @@ We chose demographics often associated with higher crime rates: unemployment, % 
  PostgreSQL, Jupyter Notebook, Sqllite, MongoDB Compass, pgAdmin4, Pandas, pyMongo, psycopg2
 
 # Methodology: The following methodology was adopted:
-![Process](https://github.com/Harmeet2504/ETL-Project/blob/master/methodology.png)
+
 # 1.Extraction:
 # NJ county demographic data (2017):
 Extracted from the US Census 2017 Profile data: https://api.census.gov/data/2017/acs/acs5/profile?get=

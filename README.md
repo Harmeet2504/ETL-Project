@@ -50,7 +50,7 @@ Please see jupyter notebook in the “Load-mongodb” folder for the python code
 # Challenges:
 1. Un-packing FBI API responses: FBI's API data came back as a triple-nested dictionary. Other queries came back as lists of nested dictionaries. This was difficult to un-pack as the traditional pd.DataFrame() function returned just one row with jumbled column headers. We built functions to un-pack each type of API response.
 2. Looping through FBI's API pagination: When pulling the offense data from FBI's API we found that the API results were paginated. We were already running a for loop to query each type of offense. Now we had to create a nested for loop to read through each page of each API offense response. To get the correct number of pages to loop through, we read the pagination[page] result for each offense
-3. One to Many join commands. After loading the data to postgres, we had difficulty creating queries with joining on the shared key "county". This required a complicated GROUP BY, aggregation and LEFT JOIN efforts. Even then we were having trouble getting the results we wanted
+3. One to Many join commands. After loading the data to postgreSQL db, we had difficulty creating queries with joining on the shared key "county". This required a complicated GROUP BY, aggregation and LEFT JOIN efforts. 
  
 4. Loading and reading data to and from MongoDB cluster could be performed successfully and queried.  However, querying data from multiple collections could not be performed.  Given the timeframe, we could not resolve this.
 

@@ -44,8 +44,8 @@ Relations between the tables is shown in the ERD below:
 ![ERD](https://github.com/Harmeet2504/ETL-Project/blob/master/output_files/erd.png)
 
 MongoDB:We also tried uploading data on non-relational “NoSQL” database, MongoDB. To load data, MongoDB cluster was set up on AWS. A user was created and IP address was set up. MongoDB Compass was installed to download, visualize and manipulate data from database. MongoClient was used to communicate with MongoDB using pymongo. Collections were loaded as dictionaries as NoSQL database like MongoDB provides support for JSON-styled, document-oriented storage systems. The database is available in MongoDB. The collections are “demography” and “crime”.
-Please see jupyter notebook in the “Load-mongodb” folder for the python code.Showing below screnshot of one of the collections in MongoDB cluster.
-![crime_Collection_in_MongoDB_cluster](https://github.com/Harmeet2504/ETL-Project/blob/master/Load-mongodb/crime-collection.png)
+Showing below screnshot of one of the collections in MongoDB cluster.
+![crime_Collection_in_MongoDB_cluster](https://github.com/Harmeet2504/ETL-Project/blob/master/output_files/%20image-of-database-in-cluster/crime-collection.png)
 
 # Challenges:
 1. Un-packing FBI API responses: FBI's API data came back as a triple-nested dictionary. Other queries came back as lists of nested dictionaries. This was difficult to un-pack as the traditional pd.DataFrame() function returned just one row with jumbled column headers. We built functions to un-pack each type of API response.

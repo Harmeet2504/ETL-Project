@@ -41,7 +41,7 @@ Database was created both on PostgreSQL and MongoDB cluster.
 Postgres: Connection was established with PostgreSQL and the data were uploaded.Please see jupyter notebook in the “codes” folder for the python code.
 
 Relations between the tables is shown in the ERD below:
-![ERD](https://github.com/Harmeet2504/ETL-Project/blob/master/Entity%20Relationship%20Diagram%20Example%20(UML%20Notation).png)
+![ERD](https://github.com/Harmeet2504/ETL-Project/blob/master/output_files/erd.png)
 
 MongoDB:We also tried uploading data on non-relational “NoSQL” database, MongoDB. To load data, MongoDB cluster was set up on AWS. A user was created and IP address was set up. MongoDB Compass was installed to download, visualize and manipulate data from database. MongoClient was used to communicate with MongoDB using pymongo. Collections were loaded as dictionaries as NoSQL database like MongoDB provides support for JSON-styled, document-oriented storage systems. The database is available in MongoDB. The collections are “demography” and “crime”.
 Please see jupyter notebook in the “Load-mongodb” folder for the python code.Showing below screnshot of one of the collections in MongoDB cluster.
